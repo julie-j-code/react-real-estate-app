@@ -16,6 +16,8 @@ You may also see any lint errors in the console.
 
 ### `npm i react-icons`
 
+### https://www.pexels.com/fr-fr/ for assets
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
