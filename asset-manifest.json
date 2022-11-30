@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-real-estate-app/static/css/main.10e1e3a5.css",
-    "main.js": "/react-real-estate-app/static/js/main.5b573629.js",
+    "main.css": "/react-real-estate-app/static/css/main.06e94baf.css",
+    "main.js": "/react-real-estate-app/static/js/main.bf83df9d.js",
     "static/media/house2.jpg": "/react-real-estate-app/static/media/house2.87e56bd05a9c9200a337.jpg",
     "static/media/hero-img.jpg": "/react-real-estate-app/static/media/hero-img.6bf08fe8a2341a0eff67.jpg",
     "static/media/house1.jpg": "/react-real-estate-app/static/media/house1.04cf1648905ec0032d95.jpg",
@@ -17,11 +17,11 @@
     "static/media/apt2.jpeg": "/react-real-estate-app/static/media/apt2.019e0dd5fa55c2be1ee4.jpeg",
     "static/media/bath1.jpg": "/react-real-estate-app/static/media/bath1.a48b0894e5a75dbc5005.jpg",
     "index.html": "/react-real-estate-app/index.html",
-    "main.10e1e3a5.css.map": "/react-real-estate-app/static/css/main.10e1e3a5.css.map",
-    "main.5b573629.js.map": "/react-real-estate-app/static/js/main.5b573629.js.map"
+    "main.06e94baf.css.map": "/react-real-estate-app/static/css/main.06e94baf.css.map",
+    "main.bf83df9d.js.map": "/react-real-estate-app/static/js/main.bf83df9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.10e1e3a5.css",
-    "static/js/main.5b573629.js"
+    "static/css/main.06e94baf.css",
+    "static/js/main.bf83df9d.js"
   ]
 }
