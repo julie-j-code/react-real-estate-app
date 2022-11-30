@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-real-estate-app/static/css/main.30dea119.css",
+    "main.js": "/react-real-estate-app/static/js/main.6553c3b1.js",
+    "static/media/hero-img.jpg": "/react-real-estate-app/static/media/hero-img.6bf08fe8a2341a0eff67.jpg",
+    "static/media/apt1.jpeg": "/react-real-estate-app/static/media/apt1.24bb930ff5bdeb7d8a36.jpeg",
+    "static/media/apt3.jpeg": "/react-real-estate-app/static/media/apt3.823d618e7164526d5d58.jpeg",
+    "static/media/apt2.jpeg": "/react-real-estate-app/static/media/apt2.019e0dd5fa55c2be1ee4.jpeg",
+    "index.html": "/react-real-estate-app/index.html",
+    "main.30dea119.css.map": "/react-real-estate-app/static/css/main.30dea119.css.map",
+    "main.6553c3b1.js.map": "/react-real-estate-app/static/js/main.6553c3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30dea119.css",
+    "static/js/main.6553c3b1.js"
+  ]
+}
