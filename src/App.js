@@ -1,7 +1,9 @@
 import React from 'react';
-import Best from './components/Best';
-import Hero from './components/Hero';
+
 import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import Best from './components/Best';
+import Featured from './components/Featured';
 
 function App() {
   return (
@@ -9,6 +11,7 @@ function App() {
       <Navbar/> 
       <Hero/>
       <Best/>
+      <Featured/>
     </div>
   );
 }
